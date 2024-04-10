@@ -4,7 +4,7 @@
 
 This is the official Wails Svelte template.
 - Compile official templates into executable files for easy experience(将官方模板编译为可执行文件方便体验)：
-`build/bin/myproject.exe`
+- `build/bin/myproject.exe`
 
 ## Live Development
 
